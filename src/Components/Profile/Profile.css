@@ -1,0 +1,116 @@
+.profile_container {
+  background-color: rgb(235, 235, 235);
+  height: 100vh;
+  padding: 3.5% 0% 0% 0%;
+}
+.profile {
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px rgb(197, 197, 197);
+}
+.profile_Image {
+  width: 50%;
+}
+.profile_Image img {
+  width: 100%;
+}
+.profile_form {
+  padding-top: 3%;
+  background-color: white;
+  text-align: center;
+  width: 50%;
+}
+.profile_form form {
+  /* padding-bottom: 80%; */
+  width: 70%;
+  display: flex;
+  margin: 5% auto 0% auto;
+  flex-direction: column;
+}
+.profile_form input {
+  padding: 4% 0% 4% 3%;
+  margin-top: 2%;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px rgb(199, 199, 199);
+}
+hr {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.1s;
+  margin-top: 20px;
+}
+.profile_form h5 {
+  text-align: right;
+  top: 20%;
+  margin-right: 70px;
+}
+.profile_form h3 {
+  text-align: left;
+  margin-left: 90px;
+}
+.profile_form form {
+  text-align: left;
+  margin-right: 60px;
+  margin-bottom: 1px;
+}
+.profile_form2 hr {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.1s;
+  margin-top: 20px;
+}
+.line {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.1s;
+  margin-top: 20px;
+}
+.profile_form h6 {
+  text-align: left;
+  margin-left: 90%;
+  color: #55229e;
+  padding-top: 10px;
+}
+
+/* .f_one {
+    font-size: 14px;
+    padding: 2% 0%;
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    text-align: initial;
+    align-items: center;,
+  }
+  .f_one form {
+    display: inline-block;
+  }
+  .f_one form input {
+    margin-right: 5px;
+  }
+  .f_one p {
+    padding-top: 7%;
+    text-align: right;
+    width: 80%;
+  }
+  .login_form button {
+    background-color: #55229E;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    width: 70%;
+    padding: 4% 0%;
+  }
+  .login_form_signin {
+    font-size: 12px;
+    padding: 2% 0%;
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    justify-content: space-between;
+  }
+   */
